@@ -14,6 +14,7 @@
 		F218EAD7290EE44600788176 /* DatePickerDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F218EAD6290EE44600788176 /* DatePickerDemoTests.swift */; };
 		F218EAE1290EE44600788176 /* DatePickerDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F218EAE0290EE44600788176 /* DatePickerDemoUITests.swift */; };
 		F218EAE3290EE44600788176 /* DatePickerDemoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F218EAE2290EE44600788176 /* DatePickerDemoUITestsLaunchTests.swift */; };
+		F218EAF0290EE56D00788176 /* DatePickerTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = F218EAEF290EE56D00788176 /* DatePickerTextField.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		F218EADC290EE44600788176 /* DatePickerDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DatePickerDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F218EAE0290EE44600788176 /* DatePickerDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerDemoUITests.swift; sourceTree = "<group>"; };
 		F218EAE2290EE44600788176 /* DatePickerDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F218EAEF290EE56D00788176 /* DatePickerTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerTextField.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				F218EAC7290EE44400788176 /* ContentView.swift */,
 				F218EAC9290EE44600788176 /* Assets.xcassets */,
 				F218EACB290EE44600788176 /* Preview Content */,
+				F218EAEF290EE56D00788176 /* DatePickerTextField.swift */,
 			);
 			path = DatePickerDemo;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				F218EAC8290EE44400788176 /* ContentView.swift in Sources */,
 				F218EAC6290EE44400788176 /* DatePickerDemoApp.swift in Sources */,
+				F218EAF0290EE56D00788176 /* DatePickerTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
